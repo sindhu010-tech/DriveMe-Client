@@ -1,0 +1,16 @@
+body {
+  margin: 0;
+  background: #e5e5e5; /* grey background like outside phone */
+  font-family: 'Poppins', sans-serif;
+}
+
+/* MOBILE APP CONTAINER */
+.app-container {
+  width: 375px;              /* mobile width */
+  height: 100vh;
+  margin: auto;
+  background: #fff;
+  overflow: hidden;
+  position: relative;
+  box-shadow: 0 0 20px rgba(0,0,0,0.1);
+}
